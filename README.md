@@ -9,5 +9,5 @@ However, it is non-trivial to measure this distortion as it requires the SR algo
 Our key insight is that such requirements can be met by recent SR algorithms based on deep generative models that can find all matching HR images for a given LR image on their learned manifolds.
 Extensive experimental results show the effectiveness of our IDA-RD measure.
 
-##
-Code waiting for coming
+# Requirement
+Our model is based on the [SRFlow](https://github.com/andreas128/SRFlow)
