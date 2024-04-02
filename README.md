@@ -10,4 +10,15 @@ Our key insight is that such requirements can be met by recent SR algorithms bas
 Extensive experimental results show the effectiveness of our IDA-RD measure.
 
 # Requirement
-Our model is based on the [SRFlow](https://github.com/andreas128/SRFlow)
+Our model is based on the [SRFlow](https://github.com/andreas128/SRFlow).
+<br>
+```bash
+cd SRFlow && ./setup.sh
+```
+<br>
+
+This oneliner will:
+- Clone SRFlow
+- Setup a python3 virtual env
+- Install the packages from `requirements.txt`
+- Run the [Demo Jupyter Notebook](https://github.com/Byronliang8/IDA-RD/blob/main/SRFlow/code/SRFlow.ipynb)
