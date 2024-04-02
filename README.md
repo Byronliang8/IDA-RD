@@ -10,7 +10,7 @@ Our key insight is that such requirements can be met by recent SR algorithms bas
 Extensive experimental results show the effectiveness of our IDA-RD measure.
 
 ##  Information loss
-we aim to evaluate the “information loss” rather than perceptual quality as done in previous works.
+We aim to evaluate the “information loss” rather than perceptual quality as done in previous works.
 
 # Requirement
 Our model is based on the [SRFlow](https://github.com/andreas128/SRFlow). Please check out more detail from SRFlow.
