@@ -23,4 +23,4 @@ This oneliner will:
 - Clone SRFlow
 - Setup a python3 virtual env
 - Install the packages from `requirements.txt`
-- Run the [Demo Jupyter Notebook](https://github.com/Byronliang8/IDA-RD/blob/main/SRFlow/code/SRFlow.ipynb)
+- Run the [IDA-RD Demo Jupyter Notebook](https://github.com/Byronliang8/IDA-RD/blob/main/SRFlow/code/IDA_RD_SRFlow.ipynb)
