@@ -1,4 +1,4 @@
-# Deep Generative Model based Rate-Distortion for Image Downscaling Assessment
+# Deep Generative Model based Rate-Distortion for Image Downscaling Assessment [[Youtube](https://www.youtube.com/watch?v=94xMwRkL7ZI&t=2s)]
 ## Abstract
 In this paper, we propose Image Downscaling Assessment by Rate-Distortion (IDA-RD), a novel measure to quantitatively evaluate image downscaling algorithms. 
 In contrast to image-based methods that measure the quality of downscaled images, ours is process-based that draws ideas from rate-distortion theory to measure the distortion incurred during downscaling.
